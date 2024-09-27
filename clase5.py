@@ -14,17 +14,4 @@ z2=False
 print(type(z))
 print(z2)
 
-#Suma
-print(x+y)
-print(y+y)
 
-#Resta
-print(y-x)
-print(x-y)
-
-#Multiplicación
-print(x*y)
-print(y*y)
-
-#Division
-print(y/x)
